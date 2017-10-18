@@ -1,10 +1,16 @@
 # TAIP-Image-sketch-generation
 TAIP Project - An GNA driven image generator, starting from sketches
 
-About GANs:
+# Team members
+1. Boca Madalina - MOC2
+2. Tutuianu Corneliu - MOC2
+3. Costandache Serban - MOC2
+
+
+# About GANs:
 https://arxiv.org/pdf/1701.00160.pdf
 
-State of the Art:
+# State of the Art:
 
 https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wang_Sketch-Based_3D_Shape_2015_CVPR_paper.pdf
 
