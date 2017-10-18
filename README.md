@@ -1,5 +1,5 @@
 # TAIP-Image-sketch-generation
-TAIP Project - An GNA driven image generator, starting from sketches
+TAIP Project - A GNA driven image generator, starting from sketches
 
 # Team members
 1. Boca Madalina - MOC2
